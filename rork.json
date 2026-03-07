@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "PolicyCheck UK",
+      "path": "ios",
+      "framework": "swift"
+    }
+  ]
+}
