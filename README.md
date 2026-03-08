@@ -19,6 +19,16 @@
 
 ---
 
+## 📋 About PolicyCheck UK
+
+**PolicyCheck UK** helps insurance professionals quickly determine whether claims are covered under policy terms and identify potential regulatory compliance issues.
+
+Built for the UK insurance market, it combines AI analysis with human oversight to ensure accurate, defensible coverage decisions.
+
+**Version:** 1.0.0
+
+---
+
 ## ✨ Key Features
 
 ### 📊 Case Management
