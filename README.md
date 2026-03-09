@@ -4,7 +4,7 @@
 
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange)](https://swift.org)
 [![iOS](https://img.shields.io/badge/iOS-17+-blue)](https://developer.apple.com/ios)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
 
 ---
 
@@ -161,7 +161,9 @@ xcodebuild test -scheme PolicyCheckUKUITests -destination 'platform=iOS Simulato
 
 ## 📝 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+**Copyright © 2026 Raphael. All rights reserved.**
+
+This software is proprietary and confidential. No part of this project may be used, copied, modified, distributed, or reproduced without explicit written permission from the owner.
 
 ---
 
