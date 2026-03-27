@@ -60,3 +60,9 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+ios/
+android/
+core
+node_modules
+.expo
