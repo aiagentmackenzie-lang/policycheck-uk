@@ -4,7 +4,6 @@
 
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange)](https://swift.org)
 [![iOS](https://img.shields.io/badge/iOS-17+-blue)](https://developer.apple.com/ios)
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
 
 ---
 
@@ -153,17 +152,9 @@ xcodebuild test -scheme PolicyCheckUKUITests -destination 'platform=iOS Simulato
 
 **Designed & Developed by:**
 - **Raphael Main** — Product vision, domain expertise, iOS development
-- **Agent Mackenzie** — AI implementation, compliance logic
+- **AIagent Mackenzie** — AI implementation, compliance logic
 
 **Contact:** [aiagent.mackenzie@gmail.com](mailto:aiagent.mackenzie@gmail.com)
-
----
-
-## 📝 License
-
-**Copyright © 2026 Raphael. All rights reserved.**
-
-This software is proprietary and confidential. No part of this project may be used, copied, modified, distributed, or reproduced without explicit written permission from the owner.
 
 ---
 
